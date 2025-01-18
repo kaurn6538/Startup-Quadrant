@@ -92,6 +92,7 @@ The dashboard provides clear insights into:
 
 3. These insights will help the Board of Directors identify and prioritize the best investment opportunities.
 
+
 ## Future Enhancements
 
 *    Add year-over-year comparison for growth trends.
