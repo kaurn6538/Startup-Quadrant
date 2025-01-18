@@ -102,4 +102,4 @@ The dashboard provides clear insights into:
 
 ## Contact
 
-For questions or feedback, please contact Navdeep kaur at Kaurnancy4040@gmail.com.
+For questions or feedback, please contact Navdeep kaur at kaurnancy4040@gmail.com.
