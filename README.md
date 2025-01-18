@@ -16,31 +16,31 @@ This project uses Tableau to visualize the data and help identify startups that 
 
 1. Scatter Plot Visualization: "The Startup Quadrant"
 
-The scatter plot represents startups with Revenue on the x-axis and Expenses on the y-axis.
+*    The scatter plot represents startups with Revenue on the x-axis and Expenses on the y-axis.
 
-The chart is divided into quadrants based on user-defined cutoffs for Revenue and Expenses.
+*    The chart is divided into quadrants based on user-defined cutoffs for Revenue and Expenses.
 
-Startups in the top-left quadrant (high Revenue, low Expenses) are the most desirable investment opportunities.
+*    Startups in the top-Right quadrant (high Revenue, low Expenses) are the most desirable investment opportunities.
 
 2. Dynamic Filters
 
-Revenue Cutoff: Adjustable slider to set a minimum revenue threshold.
+*    Revenue Cutoff: Adjustable slider to set a minimum revenue threshold.
 
-Expenses Cutoff: Adjustable slider to set a maximum expenses threshold.
+*    Expenses Cutoff: Adjustable slider to set a maximum expenses threshold.
 
-Group Leaders: Adjustable slider to filter the top-performing startups by growth.
+*    Group Leaders: Adjustable slider to filter the top-performing startups by growth.
 
 3. Top 14 by Growth
 
-A table displaying the top 14 startups based on growth percentage, with conditional formatting for easy identification of the best-performing startups.
+*    A table displaying the top 14 startups based on growth percentage, with conditional formatting for easy identification of the best-performing startups.
 
-Steps to Run the Visualization
+# Steps to Run the Visualization
 
 ## Prerequisites
 
-Tableau Desktop or Tableau Public
+*    Tableau Desktop or Tableau Public
 
-The dataset of 1,000 startups (2015 Revenue, Expenses, and Growth metrics)
+*    The dataset of 1,000 startups (P11-1000-Startups)
 
 ## Instructions
 
@@ -50,13 +50,13 @@ The dataset of 1,000 startups (2015 Revenue, Expenses, and Growth metrics)
 
 *    Set Up the Dashboard:
 
-*    Create the scatter plot visualization with Revenue and Expenses as axes.
+  Create the scatter plot visualization with Revenue and Expenses as axes.
 
 ## Add calculated fields for Growth and conditional formatting.
 
 Configure Filters:
 
-Add sliders for Revenue Cutoff, Expenses Cutoff, and Group Leaders.
+*    Add sliders for Revenue Cutoff, Expenses Cutoff, and Group Leaders.
 
 ## Design the Dashboard:
 
@@ -80,7 +80,7 @@ Hover over data points on the scatter plot to view detailed information about in
 
 *    Identify Investment Opportunities:
 
-Focus on startups in the top-left quadrant of the scatter plot and the Top 14 by Growth list.
+Focus on startups in the top-Right quadrant of the scatter plot and the Top 14 by Growth list.
 
 *    Insights and Recommendations
 
