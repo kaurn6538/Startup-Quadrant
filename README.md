@@ -92,6 +92,7 @@ The dashboard provides clear insights into:
 
 3. These insights will help the Board of Directors identify and prioritize the best investment opportunities.
 
+<img width="506" alt="Screenshot 2025-01-20 162659" src="https://github.com/user-attachments/assets/813a6904-e355-4d97-8a9f-f9ae90b44030" />
 
 ## Future Enhancements
 
